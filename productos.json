@@ -1,0 +1,106 @@
+[
+    {
+        "id": "1",
+        "nombre": "Sega Genesis 16 Bit",
+        "precio": 40.000,
+        "imagen":"./imagenes/sega-genesis (1).png"
+    },
+    {
+        "id": "2",
+        "nombre": "Nintendo Super NES Classic Edition",
+        "precio": 400.000,
+        "imagen": "imagenes/super-nintendo.png"
+    },
+    {
+        "id": "3",
+        "nombre": "Consola 8 Bit Family Blanco Rojo 90s",
+        "precio": 65.000,
+        "imagen": "imagenes/family-game.png"
+    },
+    {
+        "id": "4",
+        "nombre": "Playstation 1",
+        "precio":  80.000,
+        "imagen": "./imagenes/800px-PSX-Console-wController.png"
+    },
+    {
+        "id": "5",
+        "nombre": "Playstation 2",
+        "precio": 100.000,
+        "imagen": "./imagenes/play-2.png"
+    },
+    {
+        "id": "6",
+        "nombre": "Nintendo Wi",
+        "precio": 120.000,
+        "imagen": "./imagenes/600px-Wii_console.png"
+    },
+    {
+        "id": "7",
+        "nombre": "Xbox 360",
+        "precio": 150.000,
+        "imagen": "./imagenes/xbox360 (1).png"
+    },
+    {
+        "id": "8",
+        "nombre": "CONSOLA PORTATIL RETRO | POWKIDDY - 25000 JUEGOS",
+        "precio": 200.000,
+        "imagen": "./imagenes/powkidddy (1).png" 
+    },
+    {
+        "id": "9",
+        "nombre": "CONSOLA PORTATIL - GAME BOX 400 JUEGOS EN 1",
+        "precio": 8.000,
+        "imagen": "./imagenes/CONSOLASUP-4-1 (1).png" 
+    },
+    {
+        "id": "10",
+        "nombre": "CONSOLA PORTATIL - GAME BOX M3 PREMIUM | 900 JUEGOS EN 1",
+        "precio": 35.000,
+        "imagen": "./imagenes/consola-supm3.png"
+    },
+    {
+        "id": "11",
+        "nombre": "CONSOLA GAME STICK 4K LITE",
+        "precio": 95.000,
+        "imagen": "./imagenes/game-stick-4k-lite-111-b7789afdf380fbe20116888006726952-640-0 (1).png"
+    },
+    {
+        "id": "12",
+        "nombre": "CONSOLA ARCADE L",
+        "precio": 190.000,
+        "imagen": "./imagenes/arcade-l-pacman1-f88eac3fe12a3b49ba16197157004735-640-0.png"
+    },
+    {
+        "id": "13",
+        "nombre": "Consola Level Up RETROBOY Transparente",
+        "precio": 15.000,
+        "imagen": "./imagenes/Consola Level Up RETROBOY Transparente (1).png"
+    },
+    {
+        "id": "14",
+        "nombre": "Consola Retro Mini 16 Bit conexión HDMI",
+        "precio": 60.000,
+        "imagen": "./imagenes/Mando-inal-mbrico-HD-4K-para-Sega-Genesis-miniconsola-Compatible-con-HDMI-de-16-bits-con.png_-1-1.png"
+    },
+    {
+        "id": "15",
+        "nombre": "Consola retro Game Station 1000 juegos en 1",
+        "precio": 20.000,
+        "imagen": "./imagenes/GAMESTATIONCLASSICCON1000JUEGOS_1024x1024.png"
+    },
+    {
+        "id": "16",
+        "nombre": "Consola retro netmak nm-brick",
+        "precio": 6.000,
+        "imagen": "./imagenes/tetris-clasico-999-in-11-896e210b26bcc6d03216918644308204-480-0.png"
+    },
+    {
+        "id": "17",
+        "nombre": "Comando Arcade 4 Jugadores (13000 Juegos)",
+        "precio": 30.000,
+        "imagen": "./imagenes/arcade-4jugadores.png"
+    }
+    
+
+]

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MarchRetro | Inicio</title>
+    <!--Favicon linkeado-->
+    <link rel="icon" href="./imagenes/seta.png" type="image/x-icon">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <!--Header de la pagina-->
+
+    <header>
+        <!--Logo de pagina web-->
+        <div class="menu container">
+            <a href="#" class="logo"><img src="./imagenes/mariobros-gif.gif" alt=""><img
+                    src="./imagenes/logo-gift-moneda.gif" alt=""> <img
+                    src="./imagenes/—Pngtree—retro game neon png_6019144.png" alt=""></a>
+
+            <nav class="navbar">
+                <ul>
+                    <li><a href="#">Inicio</a></li>
+                    <li><a href="#">Productos</a></li>
+                    <li><a href="#">Contacto</a></li>
+                </ul>
+            </nav>
+    </header>
+
+    <!--Productos de la tienda-->
+
+    <h2 class="products">Productos</h2>
+
+    <!--Carrito-->
+
+    <div id="cart-container">
+        <img src="./imagenes/car.svg" id="img-carrito" width="50px" height="50px" alt="">
+        <ul id="cart-list"></ul>
+        <button class="btn-1" id="empty-cart">Vaciar Carrito</button>
+        <button class="btn-1" id="buy-button">Comprar</button>
+    </div>
+
+    <hr>
+
+    <section id="products-list">
+        <!-- Aquí se cargarán los productos dinámicamente desde JavaScript -->
+    </section>
+
+    <!--Footer de la pagina-->
+
+    <footer id="lista-producto">
+        <div class="footer">
+            <div class="footer-item">
+                <h3>Contacto</h3>
+                <p>Email: contacto@mi-tienda-retro.com</p>
+                <p>Teléfono: +123456789</p>
+            </div>
+            <div class="footer-item">
+                <h3>Enlaces útiles</h3>
+                <ul>
+                    <li><a href="#">Inicio</a></li>
+                    <li><a href="#">Productos</a></li>
+                    <li><a href="#">Carrito</a></li>
+                    <li><a href="#">Contacto</a></li>
+                </ul>
+            </div>
+            <div class="footer-item">
+                <h3>Síguenos en redes sociales</h3>
+                <a>Facebook | Twitter | Instagram</a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+
+</html>
